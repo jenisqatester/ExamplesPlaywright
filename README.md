@@ -82,7 +82,7 @@ Para llevar a cabo esta verificación, sigue estos pasos:
 
 2. Actualiza tu rama local: Si estás trabajando en una rama separada, asegúrate de actualizarla con la rama principal del repositorio antes de ejecutar las pruebas. Esto te permitirá probar tus cambios en un contexto actualizado.
 
-3. Ejecuta las pruebas automatizadas: Utiliza el marco de pruebas automatizadas definido en el proyecto (por ejemplo, Cypress, Jest, Selenium, etc.) para ejecutar las pruebas relevantes.
+3. Ejecuta las pruebas automatizadas: Utiliza el marco de pruebas automatizadas definido en el proyecto (por ejemplo, playwright, Jest, Selenium, etc.) para ejecutar las pruebas relevantes.
 
 4. Verifica los resultados de las pruebas: Después de que las pruebas se completen, revisa los resultados para asegurarte de que todas las pruebas pasaron satisfactoriamente. Presta especial atención a cualquier prueba que haya fallado y asegúrate de comprender la causa raíz del problema.
 
@@ -96,8 +96,8 @@ Para llevar a cabo esta verificación, sigue estos pasos:
 Siguiendo estos pasos, puedes garantizar que tus cambios sean revisados de manera efectiva y que se mantenga la calidad del código en el repositorio. Esto contribuye a la estabilidad y confiabilidad del proyecto a largo plazo.
 
 # Contribución
-¡Gracias por tu interés en contribuir al proyecto Cypress de XXXXXXXX!
-Cypress es una herramienta de pruebas de extremo a extremo para aplicaciones web modernas que apunta a mejorar la calidad y la eficienca del desarrollo de software.
+¡Gracias por tu interés en contribuir al proyecto playwright de XXXXXXXX!
+playwright es una herramienta de pruebas de extremo a extremo para aplicaciones web modernas que apunta a mejorar la calidad y la eficienca del desarrollo de software.
 
 
 # Finalmente
