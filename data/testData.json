@@ -1,0 +1,5 @@
+{
+    "headerText": "JSONPlaceholder",
+    "apiUrl": "https://jsonplaceholder.typicode.com/posts/1",
+    "expectedTitle": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+  }
