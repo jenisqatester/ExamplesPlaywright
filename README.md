@@ -101,4 +101,4 @@ playwright es una herramienta de pruebas de extremo a extremo para aplicaciones 
 
 
 # Finalmente
-Siguiendo estos pasos, deberías tener configurado tu entorno de desarrollo local de cypress correctamente.
+Siguiendo estos pasos, deberías tener configurado tu entorno de desarrollo local de playwright correctamente.
