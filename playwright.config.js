@@ -7,6 +7,19 @@ module.exports = defineConfig({
   use: {
     headless: true, // Ejecutar en modo headless
   },
+  projects: [
+    {
+      name: 'chromium',
+      use: { browserName: 'chromium' }, // Ejecutar en Chromium (Chrome)
+    },
+    {
+      name: 'firefox',
+      use: { browserName: 'firefox' }, // Ejecutar en Firefox
+    },
+    {
+      name: 'webkit',
+      use: { browserName: 'webkit' }, // Ejecutar en WebKit (Safari)
+    }
+  ],
   reporter: [['html', { outputFolder: 'playwright-report', open: 'never' }]], // Configuración del reporte HTML
 });
-
