@@ -1,4 +1,3 @@
-// playwright.config.js
 const { defineConfig } = require('@playwright/test');
 
 module.exports = defineConfig({
@@ -8,4 +7,6 @@ module.exports = defineConfig({
   use: {
     headless: true, // Ejecutar en modo headless
   },
+  reporter: [['html', { outputFolder: 'playwright-report', open: 'never' }]], // Configuración del reporte HTML
 });
+
